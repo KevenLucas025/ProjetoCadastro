@@ -1,9 +1,7 @@
-Fala pessoal esse é o meu primeiro projeto em Python
-Só agora depois de um bom tempo que eu consegui subir esse projeto para o GITHUB
+Fala, pessoal! 👋
 
+Esse foi o meu primeiro projeto em Python, e só agora, depois de um tempo, consegui finalmente subir ele para o GitHub 🚀
 
-É  um projeto simples de cadastro de pessoas, com algumas funcionalidades que achei bem interessante implementar
+Trata-se de um sistema simples de cadastro de pessoas, onde implementei algumas funcionalidades que, na época, achei muito interessantes para praticar e aprender na linguagem.
 
-Não usei interface gráfica, pois nesse projeto eu estava apenas começando a programar em Python
-
-Espero que gostem
+Nesse projeto ainda não utilizei interface gráfica, pois estava no início da minha jornada com Python e focado em entender bem a lógica e os conceitos básicos.
